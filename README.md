@@ -14,7 +14,6 @@
 
 
 ![image](https://github.com/Ryannn41/Smart-Shop/assets/69830650/75d3508e-ef8b-427a-96bc-cec15df1dbd8)
-![image](https://github.com/Ryannn41/Smart-Shop/assets/69830650/a82dd0e7-2010-4919-9af6-f8564b7f7c4a)
 ![image](https://github.com/Ryannn41/Smart-Shop/assets/69830650/84e392f0-2d7d-4ec7-b68d-3557af6e26d2)
 
 
