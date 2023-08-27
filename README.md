@@ -13,16 +13,16 @@
 <h3 align='center'>Shop Page 🏡</h3>
 
 <div align='center'>
-![image](https://github.com/Ryannn41/Smart-Shop/assets/69830650/b40fdef9-20b7-4302-9014-7be6e8ba5f02)
-<img src='![Alt text](image-1.png)'/>
+![image](https://github.com/Ryannn41/Smart-Shop/assets/69830650/75d3508e-ef8b-427a-96bc-cec15df1dbd8)
+
+
 </div>
 
 <br><br>
 <h3 align='center'>Cart Page 👇</h3>
 
 <div align='center'>
-<img src='![Alt text](image-2.png)'/>
-<img src='![Alt text](image-3.png)'/>
+
 
 </div>
 
