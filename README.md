@@ -12,11 +12,11 @@
 <br>
 <h3 align='center'>Shop Page 🏡</h3>
 
-<div align='center'>
+
 ![image](https://github.com/Ryannn41/Smart-Shop/assets/69830650/75d3508e-ef8b-427a-96bc-cec15df1dbd8)
 
 
-</div>
+
 
 <br><br>
 <h3 align='center'>Cart Page 👇</h3>
