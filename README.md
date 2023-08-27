@@ -12,16 +12,16 @@
 <br>
 <h3 align='center'>Shop Page 🏡</h3>
 
-<div align='center'>
+
 ![Alt text](image.png)
 ![Alt text](image-1.png)
-</div>
+
 
 <br><br>
 <h3 align='center'>Cart Page 👇</h3>
 
-<div align='center'>
+
 ![Alt text](image-2.png)
 ![Alt text](image-3.png)
 
-</div>
+
