@@ -13,8 +13,7 @@
 <h3 align='center'>Shop Page 🏡</h3>
 
 <div align='center'>
-<img src='![image](https://github.com/Ryannn41/Smart-Shop/assets/69830650/b40fdef9-20b7-4302-9014-7be6e8ba5f02)
-'/>
+![image](https://github.com/Ryannn41/Smart-Shop/assets/69830650/b40fdef9-20b7-4302-9014-7be6e8ba5f02)
 <img src='![Alt text](image-1.png)'/>
 </div>
 
