@@ -3,7 +3,7 @@
 
 👉 Live Demo: <a href='https://smartshop-wenhaoyu.com/'>Ecommerce Demo</a>
 
-» Vanila CSS <br>
+» Vanilla CSS <br>
 » React JS <br>
 » React Router <br>
 » React Context <br>
