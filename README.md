@@ -4,7 +4,7 @@
 👉 Live Demo: <a href='https://smartshop-wenhaoyu.com/'>Smart Shop</a>
 
 
-# Tech Stack Used
+<h2>Tech Stack Used</h2>
 » Vanilla CSS <br>
 » React JS <br>
 » React Router <br>
