@@ -1,7 +1,7 @@
 <h2>About the project</h2>
 <P>This project presents a pure front-end-based e-commerce website created using React and CSS. The site features a clean and intuitive design, offering user-friendly navigation and an uncomplicated shopping encounter emphasizing the products.</p>
 
-👉 Live Demo: <a href='https://smartshop-wenhaoyu.com/'>Ecommerce Demo</a>
+👉 Live Demo: <a href='https://smartshop-wenhaoyu.com/'>Smart Shop</a>
 
 » Vanilla CSS <br>
 » React JS <br>
