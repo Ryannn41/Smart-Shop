@@ -3,6 +3,8 @@
 
 👉 Live Demo: <a href='https://smartshop-wenhaoyu.com/'>Smart Shop</a>
 
+
+# Tech Stack Used
 » Vanilla CSS <br>
 » React JS <br>
 » React Router <br>
